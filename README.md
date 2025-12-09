@@ -54,7 +54,7 @@ node -v
 
 npm install
 
-3️⃣ Run the Project
+### 3️⃣ Run the Project
 node src/main.js samples/fnol1.txt
 
 
