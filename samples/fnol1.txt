@@ -1,0 +1,21 @@
+Policy Number: POL123456
+Policyholder Name: Ajay Kumar
+Effective From: 01-01-2024
+Effective To: 01-01-2025
+
+Incident Date: 05-02-2025
+Incident Time: 11:30 AM
+Location: Hyderabad
+Description: Major accident near signal.
+
+Claimant:M Ajay Kumar
+Third Parties: None
+Contact Details: 9876543210
+
+Asset Type: Car
+Asset ID: CAR1234
+Estimated Damage: 10000
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 7500
